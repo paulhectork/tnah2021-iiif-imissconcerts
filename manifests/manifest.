@@ -5,7 +5,7 @@
   "label" : [ "imissconcerts : a IIIF manifest to annotate and link pictures of live noise shows", { } ],
   "metadata" : [ ],
   "description" : [ {
-    "@value" : "The aim of this IIIF manifest is to enhance the readability and and documentary value of pictures taken during live noise concerts. All pictures have been taken by the author, with authorization from the artists. The pictures and work presented here are derivated from participant observation led during 2019-2020 as part of the research for my master's thesis.",
+    "@value" : "The aim of this IIIF manifest is to enhance the readability and and documentary value of pictures taken during live noise concerts. All pictures have been taken by the author, with authorization from the artists. The pictures and work presented here are derived from participant observation led in 2019-2020 as part of the research for my master's thesis.",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
