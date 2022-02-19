@@ -253,31 +253,5 @@
       "related" : ""
     } ]
   } ],
-  "structures" : [ {
-    "@id" : "http://55cbcb46-92d8-43ac-ae2c-ead97d125b6e/range/top",
-    "@type" : "sc:Range",
-    "label" : "Table of Content",
-    "viewingHint" : "top",
-    "ranges" : [ "http://55cbcb46-92d8-43ac-ae2c-ead97d125b6e/range/20191204", "http://55cbcb46-92d8-43ac-ae2c-ead97d125b6e/range/20200212", "http://55cbcb46-92d8-43ac-ae2c-ead97d125b6e/range/202002018", "http://55cbcb46-92d8-43ac-ae2c-ead97d125b6e/range/20200306" ]
-  }, {
-    "@id" : "http://55cbcb46-92d8-43ac-ae2c-ead97d125b6e/range/20191204",
-    "@type" : "sc:Range",
-    "label" : "Introduction",
-    "canvases" : [ "http://af7697dd-78f4-4653-835f-10e1e36a9f9f", "http://099c5e2f-4606-4506-b74e-471cc0c0cca6", "http://0a119043-9dfd-4b0d-bd56-584ae2258c7f" ]
-  }, {
-    "@id" : "http://55cbcb46-92d8-43ac-ae2c-ead97d125b6e/range/20200212",
-    "@type" : "sc:Range",
-    "label" : "Introduction",
-    "canvases" : [ "http://895c96d1-6bd6-420e-8a79-a90d0a1bdb6c" ]
-  }, {
-    "@id" : "http://55cbcb46-92d8-43ac-ae2c-ead97d125b6e/range/202002018",
-    "@type" : "sc:Range",
-    "label" : "Introduction",
-    "canvases" : [ "http://3a2eacb5-fd23-4ffe-bac6-32418edc8877", "http://8e890b4a-4b20-4fc3-afd8-c8077101aaff" ]
-  }, {
-    "@id" : "http://55cbcb46-92d8-43ac-ae2c-ead97d125b6e/range/20200306",
-    "@type" : "sc:Range",
-    "label" : "Introduction",
-    "canvases" : [ "http://345ea22b-5002-497d-b91e-abd89e96db31", "http://cc121a60-353c-4fef-9500-9cbfed1d98fd", "http://350f7fc7-b4dd-4f9f-b2cc-ced277c24e95" ]
-  } ]
+  "structures" : [ ]
 }
