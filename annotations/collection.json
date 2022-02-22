@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://paulhectork.github.io/tnah2021-iiif-imissconcerts/annotations/annotation1.json" ],
+  "@id" : "https://paulhectork.github.io/tnah2021-iiif-imissconcerts/annotations/collection.json",
+  "label" : "All annotations loaded in paulhectork/tnah2021-iiif-imissconcerts project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
