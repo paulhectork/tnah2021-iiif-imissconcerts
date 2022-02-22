@@ -1,6 +1,6 @@
 # imissconcerts : a IIIF manifest to annotate and analyze pictures of live noise shows
 
-[la poudrière](20200306_lapoudriere_show.png)
+[jfobzb](20200225_jfo-bazrabal_cover.png)
 
 ## This manifest contains:
 - 9 pictures of noise concerts (both of live performances and setup pictures) uploaded to archive.org
