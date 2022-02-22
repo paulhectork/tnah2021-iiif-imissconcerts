@@ -1,6 +1,6 @@
 # imissconcerts : a IIIF manifest to annotate and analyze pictures of live noise shows
 
-[jfobzb](https://github.com/paulhectork/tnah2021-iiif-imissconcerts/blob/main/20200225_jfo-bazrabal_cover.png)
+![jfobzb](20200225_jfo-bazrabal_cover.png)
 
 ## This manifest contains:
 - 9 pictures of noise concerts (both of live performances and setup pictures) uploaded to archive.org
