@@ -1,0 +1,47 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Performing rock music: sound wise, Dustbreeders are as noisy as it gets. However, rock'n'roll is an extremely important reference for the band. This is obvious in their concerts: all three musicians play the guitar (although only one of them is a trained guitarist); their gestures have a rock \"feel\" to them. According to the musicians themselves, the band was created to \"play with rock's standards\". \"Heroic\" postures, energetic demonstrations of power, holding the instrument high up in the air can be found both in rock and in Dustbreeders's concerts (as seen <a href=\"https://youtu.be/jCbpXrsVhhI?t=405\" target=\"_blank\" rel=\"noopener\">here). In Dustbreeders' case, however, playing with rock standards also means detroying them: guitar are played with strewdrivers, they are played upside down, dragged on the ground...",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>Performing rock music</strong>: sound wise, Dustbreeders are as noisy as it gets. However, rock'n'roll is an extremely important reference for the band. This is obvious in their concerts: all three musicians play the guitar (although only one of them is a trained guitarist); their gestures have a rock \"feel\" to them. According to the musicians themselves, the band was created to \"play with rock's standards\". \"Heroic\" postures, energetic demonstrations of power, holding the instrument high up in the air can be found both in rock and in Dustbreeders's concerts (as seen <a href=\"https://youtu.be/jCbpXrsVhhI?t=405\" target=\"_blank\" rel=\"noopener\">here</a>). In Dustbreeders' case, however, playing with rock standards also means detroying them: guitar are played with strewdrivers, they are played upside down, dragged on the ground...</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "performance",
+      "@type" : "oa:Tag",
+      "chars" : "performance"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "traditionnan instruments",
+      "@type" : "oa:Tag",
+      "chars" : "traditionnan instruments"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92783156",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-22T20:38:12",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645562292600",
+    "dcterms:modified" : "2022-02-22T21:25:49",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://paulhectork.github.io/tnah2021-iiif-imissconcerts/manifests/manifest..json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1001,439,1401,1415"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2401.47067,438.84038h-700.33697v0h-700.33697v707.34652v707.34652h700.33697h700.33697v-707.34652z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_c023fdd9-e09f-4433-9816-a39bf824f85b\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"19.37731\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://350f7fc7-b4dd-4f9f-b2cc-ced277c24e95"
+    } ]
+  } ],
+  "@id" : "https://paulhectork.github.io/tnah2021-iiif-imissconcerts/annotations/annotation9.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
