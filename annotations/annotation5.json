@@ -1,0 +1,51 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "At the heart of this performance is the slow dismemberment of an electric guitar. The guitar is connected to a small amplifier. Tied to a rope, the instrument is dragged across the floor and scraped against other objects. While this show stands between musical concert and artistic performance, this focus on the electric guitar and its manipulation shows a defunctionnalization of traditionnal musical objects and a levelling of musical objects and gestures. The guitar is treated just like any other object, like waste. The usual symbolic value of playing an electric guitar is replaced with \"everyday gestures\" that end up destroying the instrument. This reconsideration of conventional instruments and practices is often found in noise performance, although often in a more subtle way. One of the most famous examples of \"destruction-of-a-venue-as-concert\" is Hanatarash's (<span class=\"t_nihongo_kanji\"><span title=\"Japanese-language text\"><span lang=\"ja\">ハナタラシ) famous bulldozer gig, where they ran a bulldozer in the concert venue. ",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>At the heart of this performance is the slow dismemberment of an electric guitar. The guitar is connected to a small amplifier. Tied to a rope, the instrument is dragged across the floor and scraped against other objects. While this show stands between musical concert and artistic performance, this focus on the electric guitar and its manipulation shows a defunctionnalization of traditionnal musical objects and a levelling of musical objects and gestures. The guitar is treated just like any other object, like waste. The usual symbolic value of playing an electric guitar is replaced with \"everyday gestures\" that end up destroying the instrument. This reconsideration of conventional instruments and practices is often found in noise performance, although often in a more subtle way. One of the most famous examples of \"destruction-of-a-venue-as-concert\" is Hanatarash's (<span class=\"t_nihongo_kanji\"><span title=\"Japanese-language text\"><span lang=\"ja\">ハナタラシ) famous bulldozer gig, where they ran a bulldozer in the concert venue. </span></span></span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "musical gestures",
+      "@type" : "oa:Tag",
+      "chars" : "musical gestures"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "electric guitar",
+      "@type" : "oa:Tag",
+      "chars" : "electric guitar"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "non-musical objects",
+      "@type" : "oa:Tag",
+      "chars" : "non-musical objects"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92783156",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-19T15:10:12",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645283412873",
+    "dcterms:modified" : "2022-02-19T15:29:57",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://paulhectork.github.io/tnah2021-iiif-imissconcerts/manifests/manifest..json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=706,931,1501,619"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M706.34828,931.34037h750.25594v0h750.25594v309.42216v309.42216h-750.25594h-750.25594v-309.42216z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_302ca2bc-50c1-4b17-9be4-768116564a9e\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"28.70712\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://3a2eacb5-fd23-4ffe-bac6-32418edc8877"
+    } ]
+  } ],
+  "@id" : "https://paulhectork.github.io/tnah2021-iiif-imissconcerts/annotations/annotation5.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
