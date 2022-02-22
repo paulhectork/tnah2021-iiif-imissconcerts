@@ -1,0 +1,92 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Pedal-focused performance: the musical performance is focused on transforming a pre-recorded sound-source using effect pedals. This gesture is a reversal of the traditional use of effect pedals: they are not supposed to be the center of the performance. Rather, they usually embellish the sound of a guitar or a synth. The musical gestures then focus on the guitar/synth, and the pedals are left relatively untouched. Effect pedals are amongst the most \"traditional\" noise instruments, often stacked one after another, connected to a contact microphone or set up in a \"no-input\" loop (where the output of a mixer is run through pedals&nbsp; which are plugged in the same mixer, causing feedback that is modulated by the pedals).\n&nbsp;\nSee the previous picture for a detailed study of the gear used by The Rita and the way it is connected.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Pedal-focused performance: the musical performance is focused on transforming a pre-recorded sound-source using effect pedals. This gesture is a reversal of the traditional use of effect pedals: they are not supposed to be the center of the performance. Rather, they usually embellish the sound of a guitar or a synth. The musical gestures then focus on the guitar/synth, and the pedals are left relatively untouched. Effect pedals are amongst the most \"traditional\" noise instruments, often stacked one after another, connected to a contact microphone or set up in a \"no-input\" loop (where the output of a mixer is run through pedals&nbsp; which are plugged in the same mixer, causing feedback that is modulated by the pedals).</p>\n<p>&nbsp;</p>\n<p>See the previous picture for a detailed study of the gear used by The Rita and the way it is connected.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "musical gesture",
+      "@type" : "oa:Tag",
+      "chars" : "musical gesture"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "effect pedals",
+      "@type" : "oa:Tag",
+      "chars" : "effect pedals"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "playback device",
+      "@type" : "oa:Tag",
+      "chars" : "playback device"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92783156",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-19T14:40:08",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645281608897",
+    "dcterms:modified" : "2022-02-22T21:17:48",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://paulhectork.github.io/tnah2021-iiif-imissconcerts/manifests/manifest..json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=238,1966,1070,674"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1308.12137,1965.87335h-535.10554v0h-535.10554v336.87335v336.87335h535.10554h535.10554v-336.87335z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_6f51c22c-a09c-4ea3-98e5-5c38a32adb55\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"25.83641\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://099c5e2f-4606-4506-b74e-471cc0c0cca6"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Discipline as a value : obviously, a musician's gestures and their behaviour are significant. As a performer, The Rita notoriously shows restraint, keeping a straight face, not interacting with the public and being focused on the sound (as seen <a href=\"https://www.youtube.com/watch?v=gHFwn68Pc0Y\" target=\"_blank\" rel=\"noopener\">here). This is typical of part of the American/Canadian noise scene, which values \"discipline\", \"restraint\" and \"seriousness\". In this way, the performative behaviour of a musician is a signifier of their belonging in a specific scene.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Discipline as a value : obviously, a musician's gestures and their behaviour are significant. As a performer, The Rita notoriously shows restraint, keeping a straight face, not interacting with the public and being focused on the sound (as seen <a href=\"https://www.youtube.com/watch?v=gHFwn68Pc0Y\" target=\"_blank\" rel=\"noopener\">here</a>). This is typical of part of the American/Canadian noise scene, which values \"discipline\", \"restraint\" and \"seriousness\". In this way, the performative behaviour of a musician is a signifier of their belonging in a specific scene.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "behaviour",
+      "@type" : "oa:Tag",
+      "chars" : "behaviour"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "performance",
+      "@type" : "oa:Tag",
+      "chars" : "performance"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92783156",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-19T15:43:09",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645285389757",
+    "dcterms:modified" : "2022-02-22T21:08:28",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://paulhectork.github.io/tnah2021-iiif-imissconcerts/manifests/manifest..json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=102,1008,1367,904"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M102.42216,1007.77309h683.51188v0h683.51188v452.06069v452.06069h-683.51188h-683.51188v-452.06069z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_9707aeea-3b8a-4c63-b7bd-e69146f70a84\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"25.83641\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://099c5e2f-4606-4506-b74e-471cc0c0cca6"
+    } ]
+  } ],
+  "@id" : "https://paulhectork.github.io/tnah2021-iiif-imissconcerts/annotations/annotation3.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
