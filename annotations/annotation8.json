@@ -1,0 +1,143 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Hybrid performance: this concert by La Poudri&egrave;re incorporates a \"typical\" noise instrumentation (described in detail in the previous picture) and two traditonnal instruments: a violoncello (right) and a hurdy-gurdy (left). Hybrid concerts are not in any way \"special\": as a genre, noise constantly feeds from other musical styles and practices. As \"noise music\" is not a clearly situated genre, hybridation and mixing is a large part of its identity.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Hybrid performance: this concert by La Poudri&egrave;re incorporates a \"typical\" noise instrumentation (described in detail in the previous picture) and two traditonnal instruments: a violoncello (right) and a hurdy-gurdy (left). Hybrid concerts are not in any way \"special\": as a genre, noise constantly feeds from other musical styles and practices. As \"noise music\" is not a clearly situated genre, hybridation and mixing is a large part of its identity.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "musical gesture",
+      "@type" : "oa:Tag",
+      "chars" : "musical gesture"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92783156",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-22T20:12:24",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645560744232",
+    "dcterms:modified" : "2022-02-22T20:12:59",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://paulhectork.github.io/tnah2021-iiif-imissconcerts/manifests/manifest..json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=642,665,1795,1134"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M641.75726,664.7086h897.3943v0h897.3943v567.20496v567.20496h-897.3943h-897.3943v-567.20496z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_74d5a4ad-270b-4b45-92d1-80e953ebf445\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"19.37731\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://345ea22b-5002-497d-b91e-abd89e96db31"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "source source",
+      "@type" : "oa:Tag",
+      "chars" : "source source"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "traditionnal instrument",
+      "@type" : "oa:Tag",
+      "chars" : "traditionnal instrument"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Sound source: an amplified hurdy gurdy. Its sound is not modified in any way.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Sound source: an amplified hurdy gurdy. Its sound is not modified in any way.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92783156",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-22T20:04:00",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645560240499",
+    "dcterms:modified" : "2022-02-22T20:04:00",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://paulhectork.github.io/tnah2021-iiif-imissconcerts/manifests/manifest..json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=942,773,709,493"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M942.10554,773.09235h354.63588v0h354.63588v246.44591v246.44591h-354.63588h-354.63588v-246.44591z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_74b54680-664b-4c12-83a1-4784100685ad\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#fca7ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://345ea22b-5002-497d-b91e-abd89e96db31"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://paulhectork.github.io/tnah2021-iiif-imissconcerts/manifests/manifest..json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=852,1035,8,2"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M851.6781,1034.68602h4.22955v0h4.22955v1v1h-4.22955h-4.22955v-1z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_ee83b93b-0a4a-4ebd-9100-3e1729d8ed4e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://345ea22b-5002-497d-b91e-abd89e96db31"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "sound source",
+      "@type" : "oa:Tag",
+      "chars" : "sound source"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "traditionnal instrument",
+      "@type" : "oa:Tag",
+      "chars" : "traditionnal instrument"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Sound source: a violoncello. Its sound is not modified but only amplified.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Sound source: a violoncello. Its sound is not modified but only amplified.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92783156",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-22T20:06:00",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645560360634",
+    "dcterms:modified" : "2022-02-22T20:06:00",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://paulhectork.github.io/tnah2021-iiif-imissconcerts/manifests/manifest..json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1834,807,492,750"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2325.96834,807.00264h-246.06069v0h-246.06069v374.82058v374.82058h246.06069h246.06069v-374.82058z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_29384e4f-aca0-4dfa-9649-ca5c20556ddf\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#fca7ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://345ea22b-5002-497d-b91e-abd89e96db31"
+    } ]
+  } ],
+  "@id" : "https://paulhectork.github.io/tnah2021-iiif-imissconcerts/annotations/annotation8.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
