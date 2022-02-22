@@ -2,7 +2,7 @@
 
 ![jfobzb](20200225_jfo-bazrabal_cover.png)
 
-## First this first : what's noise music?
+## First things first : what is noise music?
 
 To say things shortly, noise music is noisy music which calls itself noise. There's no one definition beyond musician's pratices and conceptions, so if you say it's noise, it's noise.
 
