@@ -1,0 +1,207 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Sound modifier: a MIDI interface",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Sound modifier: a MIDI interface</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "sound modification device",
+      "@type" : "oa:Tag",
+      "chars" : "sound modification device"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "midi",
+      "@type" : "oa:Tag",
+      "chars" : "midi"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "synthestizer",
+      "@type" : "oa:Tag",
+      "chars" : "synthestizer"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92783156",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-22T18:27:45",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645554465852",
+    "dcterms:modified" : "2022-02-22T18:32:42",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://paulhectork.github.io/tnah2021-iiif-imissconcerts/manifests/manifest..json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2267,1393,431,701"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2303.27967,1399.33424l3.3397,-6.6794l290.55389,50.0955l100.191,644.56207l-430.82128,6.6794l33.397,-691.31787z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_30b29cee-471a-4bd3-9f5d-ab2c93ef1893\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#880188\" stroke-width=\"4.84433\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://895c96d1-6bd6-420e-8a79-a90d0a1bdb6c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : ""
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92783156",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-22T18:30:26",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645554626317",
+    "dcterms:modified" : "2022-02-22T18:30:26",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://paulhectork.github.io/tnah2021-iiif-imissconcerts/manifests/manifest..json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1819,1603,444,347"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2263.20327,1950.38472h-417.46248v-340.64939l26.7176,23.3779l-53.4352,16.6985l20.0382,-46.7558\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_9fd74ca6-2202-40c0-94aa-0f195b5fc2e2\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#ff8b00\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://895c96d1-6bd6-420e-8a79-a90d0a1bdb6c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : ""
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92783156",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-22T18:29:49",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645554589360",
+    "dcterms:modified" : "2022-02-22T18:29:49",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://paulhectork.github.io/tnah2021-iiif-imissconcerts/manifests/manifest..json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1976,948,518,458"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1975.98909,951.81446l484.25648,-3.3397l10.0191,457.53888l23.3779,-26.7176h-50.0955l23.3779,23.3779\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_14f1304b-c7e4-4ec0-b3cf-4273a4e79e82\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#ff8b00\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://895c96d1-6bd6-420e-8a79-a90d0a1bdb6c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Sound modifier: a computer running several synthesizers on software.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Sound modifier: a computer running several synthesizers on software.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "sound modification device",
+      "@type" : "oa:Tag",
+      "chars" : "sound modification device"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "computer",
+      "@type" : "oa:Tag",
+      "chars" : "computer"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "synthesizer",
+      "@type" : "oa:Tag",
+      "chars" : "synthesizer"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "software",
+      "@type" : "oa:Tag",
+      "chars" : "software"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92783156",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-22T18:29:18",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645554558886",
+    "dcterms:modified" : "2022-02-22T18:32:15",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://paulhectork.github.io/tnah2021-iiif-imissconcerts/manifests/manifest..json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=256,384,1924,1553"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M259.38336,390.74488l166.98499,1068.70396l601.14598,477.57708l1152.19645,-480.91678l-644.56207,-257.15689l-76.8131,-754.77217l-1202.29195,-60.1146v0z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_79531eaa-2cbe-4468-8ea7-d7e452814bf9\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#880188\" stroke-width=\"25.83641\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://895c96d1-6bd6-420e-8a79-a90d0a1bdb6c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Reappropriating consumer electronics: here, a \"wiimote\" (a gamepad) is turned into a hybrid instrument. Its motion-sensor emits a signal that is passed on to a midi controller (a piece of hardware which allows the interface between instruments and software). The signal is then sent to a computer. There, the electronic signal of the wiimote is run through several digital synthesizers (seen on screen). This repurposing of an everyday object (a gamepad) is a technologically advanced example of a central practice in noise instrumentation. Everyday objects are repurposed, often in a DIY manner. Children's toys are often <a href=\"circuit\" target=\"_blank\" rel=\"noopener\">circuit bended or short-circuited in order to sound noisier or to create unexpected sounds.\nThis setup is used by french musician and artist Joachim Montessuis.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Reappropriating consumer electronics: here, a \"wiimote\" (a gamepad) is turned into a hybrid instrument. Its motion-sensor emits a signal that is passed on to a midi controller (a piece of hardware which allows the interface between instruments and software). The signal is then sent to a computer. There, the electronic signal of the wiimote is run through several digital synthesizers (seen on screen). This repurposing of an everyday object (a gamepad) is a technologically advanced example of a central practice in noise instrumentation. Everyday objects are repurposed, often in a DIY manner. Children's toys are often <a href=\"circuit\" target=\"_blank\" rel=\"noopener\">circuit bended</a> or short-circuited in order to sound noisier or to create unexpected sounds.</p>\n<p>This setup is used by french musician and artist Joachim Montessuis.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "sound source",
+      "@type" : "oa:Tag",
+      "chars" : "sound source"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "repurposed consumer electronics",
+      "@type" : "oa:Tag",
+      "chars" : "repurposed consumer electronics"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92783156",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-22T18:25:06",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645554306751",
+    "dcterms:modified" : "2022-02-22T21:21:08",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://paulhectork.github.io/tnah2021-iiif-imissconcerts/manifests/manifest..json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1759,828,207,484"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1758.90859,1252.38745l63.4543,60.1146l113.5498,-20.0382l30.0573,-434.16098l-23.3779,-30.0573l-153.6262,10.0191z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_03bca082-9aaf-489c-a4c2-2d0191420178\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#f7a4f7\" stroke-width=\"25.83641\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://895c96d1-6bd6-420e-8a79-a90d0a1bdb6c"
+    } ]
+  } ],
+  "@id" : "https://paulhectork.github.io/tnah2021-iiif-imissconcerts/annotations/annotation4.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
