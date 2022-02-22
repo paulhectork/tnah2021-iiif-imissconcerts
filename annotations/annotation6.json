@@ -1,0 +1,92 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "This concert consists of a single processual performance : objects that have been assembled together in this structure are slowly taken out and spilled across the venue. The objects not amplified (excepted for a guitar), nor are they musical objects. The \"sound\" of the performance is only the sound of the objects being moved around the venue. The show ends up with the performers cleaning the venue that they littered throughout the performance. A video documenting another of Jeune Fille Orrible's performances can be found <a href=\"https://www.youtube.com/watch?v=xWbFj56GrZU\" target=\"_blank\" rel=\"noopener\">here.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>This concert consists of a single processual performance : objects that have been assembled together in this structure are slowly taken out and spilled across the venue. The objects not amplified (excepted for a guitar), nor are they musical objects. The \"sound\" of the performance is only the sound of the objects being moved around the venue. The show ends up with the performers cleaning the venue that they littered throughout the performance. A video documenting another of Jeune Fille Orrible's performances can be found <a href=\"https://www.youtube.com/watch?v=xWbFj56GrZU\" target=\"_blank\" rel=\"noopener\">here.</a></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "musical gestures",
+      "@type" : "oa:Tag",
+      "chars" : "musical gestures"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "non-musical objects",
+      "@type" : "oa:Tag",
+      "chars" : "non-musical objects"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "electric guitar",
+      "@type" : "oa:Tag",
+      "chars" : "electric guitar"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92783156",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-19T15:06:32",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645283192169",
+    "dcterms:modified" : "2022-02-19T15:33:30",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://paulhectork.github.io/tnah2021-iiif-imissconcerts/manifests/manifest..json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1133,1422,1769,583"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1132.64908,1422.23219h884.28232v0h884.28232v291.65963v291.65963h-884.28232h-884.28232v-291.65963z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_058789f3-c48d-4e1c-b74b-12111c68e1ea\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"28.70712\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://8e890b4a-4b20-4fc3-afd8-c8077101aaff"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Throughout the performance, the performers seem concentrated and keep a straight face, moving about slowly and silently.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Throughout the performance, the performers seem concentrated and keep a straight face, moving about slowly and silently.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "behaviour",
+      "@type" : "oa:Tag",
+      "chars" : "behaviour"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "performance",
+      "@type" : "oa:Tag",
+      "chars" : "performance"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92783156",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-19T15:09:58",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645283398489",
+    "dcterms:modified" : "2022-02-22T21:21:32",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://paulhectork.github.io/tnah2021-iiif-imissconcerts/manifests/manifest..json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=538,4,793,590"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M538.41161,4.4591h396.62005v0h396.62005v294.88918v294.88918h-396.62005h-396.62005v-294.88918z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_2bd18566-4b59-4883-b3f1-726f5ca5ea40\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"19.37731\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://8e890b4a-4b20-4fc3-afd8-c8077101aaff"
+    } ]
+  } ],
+  "@id" : "https://paulhectork.github.io/tnah2021-iiif-imissconcerts/annotations/annotation6.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
