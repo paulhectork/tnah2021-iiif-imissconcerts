@@ -1,0 +1,88 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Instrumentation",
+      "@type" : "oa:Tag",
+      "chars" : "Instrumentation"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "The Rita's gear, detailed in the next picture.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The Rita's gear, detailed in the next picture.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92783156",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-22T18:51:14",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645555874177",
+    "dcterms:modified" : "2022-02-22T18:51:14",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://paulhectork.github.io/tnah2021-iiif-imissconcerts/manifests/manifest..json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=474,1371,1339,390"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M473.82058,1370.55937h669.51715v0h669.51715v194.77309v194.77309h-669.51715h-669.51715v-194.77309z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_3a34c6f3-1252-4bb0-918d-bee5db213aa7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://af7697dd-78f4-4653-835f-10e1e36a9f9f"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Lack of musical gesture as performance: Gabi Losoncy doesn't perform during a concert, but simply plays a prerecorded track from her smartphone. A slightly more \"active\" performance by Gabi Losoncy can be found <a href=\"https://www.youtube.com/watch?v=NXvgAXvxRVw\" target=\"_blank\" rel=\"noopener\">here (Gabi recites a text thoughout the performance).",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Lack of musical gesture as performance: Gabi Losoncy doesn't perform during a concert, but simply plays a prerecorded track from her smartphone. A slightly more \"active\" performance by Gabi Losoncy can be found <a href=\"https://www.youtube.com/watch?v=NXvgAXvxRVw\" target=\"_blank\" rel=\"noopener\">here</a> (Gabi recites a text thoughout the performance).</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "musical gesture",
+      "@type" : "oa:Tag",
+      "chars" : "musical gesture"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "playback device",
+      "@type" : "oa:Tag",
+      "chars" : "playback device"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "performance",
+      "@type" : "oa:Tag",
+      "chars" : "performance"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92783156",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-19T14:35:06",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645281306743",
+    "dcterms:modified" : "2022-02-22T21:14:07",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://paulhectork.github.io/tnah2021-iiif-imissconcerts/manifests/manifest..json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1600,831,429,242"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2028.31135,830.86544h-214.30343v0h-214.30343v121.21108v121.21108h214.30343h214.30343v-121.21108z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_a44c58b9-c984-45a2-89b9-2252b993ecc6\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3.94331\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://af7697dd-78f4-4653-835f-10e1e36a9f9f"
+    } ]
+  } ],
+  "@id" : "https://paulhectork.github.io/tnah2021-iiif-imissconcerts/annotations/annotation1.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
