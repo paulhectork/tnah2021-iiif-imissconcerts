@@ -1,0 +1,458 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Sound modifier: a modified vintage fuzz pedal, which distorts the sound.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Sound modifier: a modified vintage fuzz pedal, which distorts the sound.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "sound modification device",
+      "@type" : "oa:Tag",
+      "chars" : "sound modification device"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "effect pedal",
+      "@type" : "oa:Tag",
+      "chars" : "effect pedal"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92783156",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-22T18:01:38",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645552898557",
+    "dcterms:modified" : "2022-02-22T18:33:49",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://paulhectork.github.io/tnah2021-iiif-imissconcerts/manifests/manifest..json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=348,298,101,93"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M348.21034,342.60697l0.90909,-26.36364l30.90909,-18.18182l69.09091,44.54545l-0.90909,23.63636l-31.81818,24.54545z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_6ffcdc2c-5744-4f0b-a530-14870c606cd3\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#880188\" stroke-width=\"8.44327\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://0a119043-9dfd-4b0d-bd56-584ae2258c7f"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "input",
+      "@type" : "oa:Tag",
+      "chars" : "input"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "noise generator",
+      "@type" : "oa:Tag",
+      "chars" : "noise generator"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Input: a noise generator made specifically for the artist.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Input: a noise generator made specifically for the artist.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92783156",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-22T17:50:14",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645552214813",
+    "dcterms:modified" : "2022-02-22T17:50:14",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://paulhectork.github.io/tnah2021-iiif-imissconcerts/manifests/manifest..json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=448,192,138,118"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M509.53243,191.77973l77.08793,47.94493l-13.16135,34.78358l-58.286,35.72368l-66.74687,-50.76522l5.64058,-32.90339z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_3c0c0b4e-c651-4ede-a859-e1c4a5ada760\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff92ff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://0a119043-9dfd-4b0d-bd56-584ae2258c7f"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "input",
+      "@type" : "oa:Tag",
+      "chars" : "input"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "cassette player",
+      "@type" : "oa:Tag",
+      "chars" : "cassette player"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Input: a cassette player playing a pre-recorded source on a tape.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Input: a cassette player playing a pre-recorded source on a tape.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92783156",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-22T17:49:17",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645552157524",
+    "dcterms:modified" : "2022-02-22T17:49:17",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://paulhectork.github.io/tnah2021-iiif-imissconcerts/manifests/manifest..json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=380,170,89,73"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M382.72727,217.25079l50,25.45455l36.36364,-48.18182l-48.18182,-24.54545l-40.90909,44.54545z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_2265f167-e360-45b2-8f3a-1a559ee1c38e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff92ff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://0a119043-9dfd-4b0d-bd56-584ae2258c7f"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : ""
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92783156",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-22T18:06:22",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645553182741",
+    "dcterms:modified" : "2022-02-22T18:06:22",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://paulhectork.github.io/tnah2021-iiif-imissconcerts/manifests/manifest..json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=367,384,133,97"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M428.21034,383.51606l71.81818,46.36364l-47.27273,50.90909l-84.54545,-77.27273l14.54545,-1.81818l-11.81818,16.36364l-3.63636,-14.54545\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_f935d8f8-887c-4b7d-9819-4b32d84c268b\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#ff8b00\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://0a119043-9dfd-4b0d-bd56-584ae2258c7f"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : ""
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92783156",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-22T17:56:59",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645552619021",
+    "dcterms:modified" : "2022-02-22T17:57:16",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://paulhectork.github.io/tnah2021-iiif-imissconcerts/manifests/manifest..json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=485,297,105,63"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M485.48307,308.06152v7.27273l9.09091,-9.09091h-7.27273l74.54545,53.63636l29.09091,-29.09091l-46.36364,-33.63636v0.90909\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_537ac22d-db94-4d20-ba73-34fb85d2614c\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#ff8b00\" stroke-width=\"10\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://0a119043-9dfd-4b0d-bd56-584ae2258c7f"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : ""
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92783156",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-22T18:08:42",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645553322162",
+    "dcterms:modified" : "2022-02-22T18:08:58",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://paulhectork.github.io/tnah2021-iiif-imissconcerts/manifests/manifest..json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=239,419,95,67"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M333.66489,418.97061l-62.72727,67.27273l-29.09091,-24.54545l9.09091,0.90909l-10.90909,10l-0.90909,-10.90909v0l7.27273,3.63636l-3.63636,-2.72727l-3.63636,-3.63636\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_9cc085e2-9451-4e39-9d4a-b15c1959e84e\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#ff8b00\" stroke-width=\"10\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://0a119043-9dfd-4b0d-bd56-584ae2258c7f"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Gabi Losoncy's only piece of \"gear\": a phone playing a pre-recorded track. See the previous image for a picture of the performance.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Gabi Losoncy's only piece of \"gear\": a phone playing a pre-recorded track. See the previous image for a picture of the performance.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "sound source",
+      "@type" : "oa:Tag",
+      "chars" : "sound source"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "mobile phone",
+      "@type" : "oa:Tag",
+      "chars" : "mobile phone"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92783156",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-22T18:12:10",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645553530970",
+    "dcterms:modified" : "2022-02-22T18:12:31",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://paulhectork.github.io/tnah2021-iiif-imissconcerts/manifests/manifest..json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=258,81,96,46"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M327.44063,127.70449l26.38523,-20.05277l-67.54618,-26.38523l-28.49604,17.94195z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_aafb6301-e3e9-4702-b2d3-c23c582a97e1\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#f7a4f7\" stroke-width=\"11.6095\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://0a119043-9dfd-4b0d-bd56-584ae2258c7f"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Output: a mixer which is connected to the venue's soundsystem.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Output: a mixer which is connected to the venue's soundsystem.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "output",
+      "@type" : "oa:Tag",
+      "chars" : "output"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "mixer",
+      "@type" : "oa:Tag",
+      "chars" : "mixer"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92783156",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-22T17:47:22",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645552042029",
+    "dcterms:modified" : "2022-02-22T17:47:59",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://paulhectork.github.io/tnah2021-iiif-imissconcerts/manifests/manifest..json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=30,345,235,188"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M30,419.97806l110,-75.45455l124.54545,96.36364l-102.72727,91.81818l-131.81819,-111.81818v0v0z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_06685088-b90c-42af-9c0a-4401e0fd0fad\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#006000\" stroke-width=\"7.27273\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://0a119043-9dfd-4b0d-bd56-584ae2258c7f"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : ""
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92783156",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-22T18:07:48",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645553268095",
+    "dcterms:modified" : "2022-02-22T18:07:48",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://paulhectork.github.io/tnah2021-iiif-imissconcerts/manifests/manifest..json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=326,176,79,88"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M403.66489,189.8797l-25.45455,-13.63636l-51.81818,40.90909l77.27273,47.27273l1.81818,-6.36364l-8.18182,4.54545l7.27273,0.90909\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_56bcee71-710c-4c52-a998-d6901caff711\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#ff8b00\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://0a119043-9dfd-4b0d-bd56-584ae2258c7f"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : ""
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92783156",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-22T18:04:38",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645553078947",
+    "dcterms:modified" : "2022-02-22T18:04:54",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://paulhectork.github.io/tnah2021-iiif-imissconcerts/manifests/manifest..json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=446,324,108,86"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M446.39217,374.42515l10,-9.09091l-9.09091,-0.90909l70,46.36364l37.27273,-32.72727l-84.54545,-53.63636\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_d0077f9d-8d4a-49de-abe5-c692778d083a\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#ff8b00\" stroke-width=\"10\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://0a119043-9dfd-4b0d-bd56-584ae2258c7f"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Sound modifier: a modified distorsion pedal",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Sound modifier: a modified distorsion pedal</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "sound modification device",
+      "@type" : "oa:Tag",
+      "chars" : "sound modification device"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "effect pedal",
+      "@type" : "oa:Tag",
+      "chars" : "effect pedal"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92783156",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-22T18:02:50",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645552970289",
+    "dcterms:modified" : "2022-02-22T18:33:08",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://paulhectork.github.io/tnah2021-iiif-imissconcerts/manifests/manifest..json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=266,327,109,98"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M267.30125,360.78879l38.18182,-33.63637l70,41.81818l-0.90909,28.18181l-37.27273,28.18182l-70.90909,-45.45455z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_9c507647-350f-4c73-b48c-66e1281868fc\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#880188\" stroke-width=\"8.44327\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://0a119043-9dfd-4b0d-bd56-584ae2258c7f"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Sound modifier: a freeze pedal (which \"freezes\" the sound)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Sound modifier: a freeze pedal (which \"freezes\" the sound)</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "sound modification device",
+      "@type" : "oa:Tag",
+      "chars" : "sound modification device"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "effect pedal",
+      "@type" : "oa:Tag",
+      "chars" : "effect pedal"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92783156",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-22T18:00:17",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645552817157",
+    "dcterms:modified" : "2022-02-22T18:34:13",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://paulhectork.github.io/tnah2021-iiif-imissconcerts/manifests/manifest..json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=389,254,92,78"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M389.11943,293.51606l70,39.09091l21.81818,-23.63636v-18.18182l-61.81818,-36.36364l-29.09091,26.36364z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_932ac2d7-a32a-445e-82bf-572d40078957\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#880188\" stroke-width=\"7.27273\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://0a119043-9dfd-4b0d-bd56-584ae2258c7f"
+    } ]
+  } ],
+  "@id" : "https://paulhectork.github.io/tnah2021-iiif-imissconcerts/annotations/annotation2.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
